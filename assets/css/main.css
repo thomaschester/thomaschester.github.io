@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #D24D57;
 			color: #c7ebe8;
 		}
 
@@ -3630,12 +3630,9 @@
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
+		background-image: url("images/experience.jpg");
 		background-attachment: fixed;
-		background-position: center center;
+		background-position: bottom center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		text-align: center;
@@ -3819,4 +3816,7 @@
 		padding: 0 !important;	
 		z-index: 1;
 		position: absolute;
+	}
+	#exp_title{	
+		color: #1d242a;
 	}
