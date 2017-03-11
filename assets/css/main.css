@@ -3630,14 +3630,36 @@
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
-		background-image: url("images/experience.jpg");
 		background-attachment: fixed;
 		background-position: bottom center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		text-align: center;
 	}
-
+	.experience{
+		background-image: url("images/experience.jpg");	
+		background-attachment: fixed;
+		background-position: bottom center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		text-align: center;
+	}
+	.education{
+		background-image: url("images/arizona.jpg");	
+		background-attachment: fixed;
+		background-position: bottom center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		text-align: center;
+	}
+	.projects{
+		background-image: url("images/projects.jpg");	
+		background-attachment: fixed;
+		background-position: bottom center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		text-align: center;
+	}
 		#main > header h2 {
 			font-size: 1.75em;
 			margin: 0 0 0.5em 0;
@@ -3819,4 +3841,3 @@
 	}
 	#exp_title{	
 		color: #1d242a;
-	}
