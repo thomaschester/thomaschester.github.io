@@ -3804,6 +3804,13 @@
 
 		}
 
+.justified{
+	text-align: justify;
+}
+.left_just{
+	text-orientation: left
+}
+
 /* Landing */
 
 	body.landing #page-wrapper {
@@ -3849,3 +3856,4 @@
 	}
 	#exp_title{	
 		color: #1d242a;
+
