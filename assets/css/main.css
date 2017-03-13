@@ -2641,16 +2641,16 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #D24D57;
+			background-color: #F2F1EF;
 			color: #c7ebe8;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
-				color: #ffffff;
+				color: #2e3842;
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #ffffff;
+				color: #2e3842;
 			}
 
 			.wrapper.style1 hr {
@@ -2674,7 +2674,7 @@
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c7ebe8;
+				color: #2e3842;
 			}
 
 			.wrapper.style1 label {
