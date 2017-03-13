@@ -3637,7 +3637,11 @@
 		text-align: center;
 	}
 	.experience{
-		background-image: url("images/experience.jpg");	
+		background-image:
+						linear-gradient(
+		      rgba(0, 0, 0, 0.5),
+		      rgba(0, 0, 0, 0.5)
+		    ), url("images/experience.jpg");
 		background-attachment: fixed;
 		background-position: bottom center;
 		background-repeat: no-repeat;
@@ -3645,7 +3649,11 @@
 		text-align: center;
 	}
 	.education{
-		background-image: url("images/arizona.jpg");	
+		background-image:
+						linear-gradient(
+		      rgba(0, 0, 0, 0.5),
+		      rgba(0, 0, 0, 0.5)
+		    ), url("images/arizona.jpg");
 		background-attachment: fixed;
 		background-position: bottom center;
 		background-repeat: no-repeat;
@@ -3653,7 +3661,11 @@
 		text-align: center;
 	}
 	.projects{
-		background-image: url("images/projects.jpg");	
+		background-image:
+						linear-gradient(
+		      rgba(0, 0, 0, 0.5),
+		      rgba(0, 0, 0, 0.5)
+		    ), url("images/projects.jpg");
 		background-attachment: fixed;
 		background-position: bottom center;
 		background-repeat: no-repeat;
@@ -3661,7 +3673,11 @@
 		text-align: center;
 	}
 	.contact{
-		background-image: url("images/contact.jpg");	
+		background-image:
+						linear-gradient(
+		      rgba(0, 0, 0, 0.5),
+		      rgba(0, 0, 0, 0.5)
+		    ), url("images/contact.jpg");
 		background-attachment: fixed;
 		background-position: bottom center;
 		background-repeat: no-repeat;
@@ -3847,12 +3863,12 @@
 	.header-video {
 		width: 100% !important;
 		height: auto !important;
-		padding: 0 !important;	
+		padding: 0 !important;
 		z-index: 1;
 		position: absolute;
 	}
-	#exp_title{	
-		color: #1d242a;
+	#exp_title{
+		color: #fff;
 h1{
 	font-size: 2em !important;
 }
