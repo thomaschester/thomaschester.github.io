@@ -1472,7 +1472,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #fff;
+		color: #2e3842;
 		font-weight: 800;
 		letter-spacing: 0.225em;
 		line-height: 1em;
@@ -3286,7 +3286,7 @@
 				@media screen and (max-width: 736px) {
 
 					#header h1 a {
-						font-size: 0.8em;
+						font-size: 2em;
 					}
 
 				}
@@ -3853,4 +3853,6 @@
 	}
 	#exp_title{	
 		color: #1d242a;
-
+h1{
+	font-size: 2em !important;
+}
