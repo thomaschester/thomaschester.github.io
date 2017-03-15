@@ -3667,7 +3667,7 @@
 		      rgba(0, 0, 0, 0.5)
 		    ), url("../../images/projects.jpg");
 		background-attachment: fixed;
-		background-position: bottom center;
+		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		text-align: center;
