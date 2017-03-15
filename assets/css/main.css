@@ -3641,7 +3641,7 @@
 						linear-gradient(
 		      rgba(0, 0, 0, 0.5),
 		      rgba(0, 0, 0, 0.5)
-		    ), url("images/experience.jpg");
+		    ), url("../../images/experience.jpg");
 		background-attachment: fixed;
 		background-position: bottom center;
 		background-repeat: no-repeat;
@@ -3653,7 +3653,7 @@
 						linear-gradient(
 		      rgba(0, 0, 0, 0.5),
 		      rgba(0, 0, 0, 0.5)
-		    ), url("images/arizona.jpg");
+		    ), url("../../images/arizona.jpg");
 		background-attachment: fixed;
 		background-position: bottom center;
 		background-repeat: no-repeat;
@@ -3665,7 +3665,7 @@
 						linear-gradient(
 		      rgba(0, 0, 0, 0.5),
 		      rgba(0, 0, 0, 0.5)
-		    ), url("images/projects.jpg");
+		    ), url("../../images/projects.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3677,7 +3677,7 @@
 						linear-gradient(
 		      rgba(0, 0, 0, 0.5),
 		      rgba(0, 0, 0, 0.5)
-		    ), url("images/contact.jpg");
+		    ), url("../../images/contact.jpg");
 		background-attachment: fixed;
 		background-position: bottom center;
 		background-repeat: no-repeat;
